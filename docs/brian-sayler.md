@@ -4,3 +4,4 @@
 - *Hometown*: Gitville, USA
 - *Education*: Codecademy
 - *Favorite Movie*: Ghostbusters
+- *Favorite Color*: Teal (RGB: 0, 128, 128)
