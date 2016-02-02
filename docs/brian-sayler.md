@@ -5,3 +5,5 @@
 - *Education*: Codecademy
 - *Favorite Movie*: Ghostbusters
 - *Favorite Color*: Teal
+- *Current City*: New York
+- *Future City*: Denver
