@@ -5,4 +5,4 @@
 - *Education*: Codecademy
 - *Favorite Movie*: Ghostbusters
 - *Favorite Color*: Teal
-- *Status*: Learning
+- *Status*: Exploring
